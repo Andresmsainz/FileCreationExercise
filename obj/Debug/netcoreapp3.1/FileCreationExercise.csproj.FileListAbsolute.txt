@@ -1,0 +1,13 @@
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\FileCreationExercise\bin\Debug\netcoreapp3.1\FileCreationExercise.exe
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\FileCreationExercise\bin\Debug\netcoreapp3.1\FileCreationExercise.deps.json
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\FileCreationExercise\bin\Debug\netcoreapp3.1\FileCreationExercise.runtimeconfig.json
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\FileCreationExercise\bin\Debug\netcoreapp3.1\FileCreationExercise.runtimeconfig.dev.json
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\FileCreationExercise\bin\Debug\netcoreapp3.1\FileCreationExercise.dll
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\FileCreationExercise\bin\Debug\netcoreapp3.1\FileCreationExercise.pdb
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\FileCreationExercise\obj\Debug\netcoreapp3.1\FileCreationExercise.csprojAssemblyReference.cache
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\FileCreationExercise\obj\Debug\netcoreapp3.1\FileCreationExercise.AssemblyInfoInputs.cache
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\FileCreationExercise\obj\Debug\netcoreapp3.1\FileCreationExercise.AssemblyInfo.cs
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\FileCreationExercise\obj\Debug\netcoreapp3.1\FileCreationExercise.csproj.CoreCompileInputs.cache
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\FileCreationExercise\obj\Debug\netcoreapp3.1\FileCreationExercise.dll
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\FileCreationExercise\obj\Debug\netcoreapp3.1\FileCreationExercise.pdb
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\FileCreationExercise\obj\Debug\netcoreapp3.1\FileCreationExercise.genruntimeconfig.cache
